@@ -20,11 +20,23 @@
 
 ### 一行命令
 
+**Windows PowerShell：**
+
+```powershell
+git clone https://github.com/2282199198/zuiqiang-shifu.git "$env:USERPROFILE\.claude\skills\zuiqiang-shifu"
 ```
+
+**Windows CMD：**
+
+```bat
 git clone https://github.com/2282199198/zuiqiang-shifu.git "%USERPROFILE%\.claude\skills\zuiqiang-shifu"
 ```
 
-Mac 用户：把 `%USERPROFILE%` 换成 `~`
+**Mac / Linux：**
+
+```bash
+git clone https://github.com/2282199198/zuiqiang-shifu.git ~/.claude/skills/zuiqiang-shifu
+```
 
 ### 手动安装
 
