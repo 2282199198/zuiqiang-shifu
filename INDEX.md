@@ -1,114 +1,36 @@
-﻿# INDEX — 最强师傅 Skill 系统索引
+# 最强师傅 v2.1｜模块索引
 
-> 最强编导 + 马师傅（营销心理学）双知识体系 · 8 大内容能力集群 + 2 个马师傅独立备选集群 · 全量引用索引
+根入口是 [SKILL.md](SKILL.md)。AI 还必须读取 [不可跳步执行协议](WORKFLOW_PROTOCOL.md)，再根据用户真正要的成品，只读取一个主模块；确有窄缺口时，最多再读取一个增强模块。
 
----
+## 主模块
 
-## 📁 文件导航
+- [topic-engine](topic-engine/SKILL.md)：从零找内容方向、筛选选题
+- [account-launch](account-launch/SKILL.md)：账号定位、赛道、冷启动
+- [viral-factory](viral-factory/SKILL.md)：完整口播、结构重写、爆款表达
+- [ip-story](ip-story/SKILL.md)：个人 IP、创始人故事、品牌故事
+- [growth-engine](growth-engine/SKILL.md)：涨粉问题与内容增长
+- [monetization](monetization/SKILL.md)：商业化、报价与变现节奏
+- [director-training](director-training/SKILL.md)：编导能力训练
+- [pitfall-guide](pitfall-guide/SKILL.md)：自媒体常见误区与纠偏
 
-| 文件 | 作用 |
-|------|------|
-| [SKILL.md](SKILL.md) | 总路由 — 按用户意图分发到 8 个集群 |
-| [topic-engine/SKILL.md](topic-engine/SKILL.md) | ① 选题引擎 |
-| [account-launch/SKILL.md](account-launch/SKILL.md) | ② 起号引擎 |
-| [viral-factory/SKILL.md](viral-factory/SKILL.md) | ③ 爆款内容工厂 |
-| [ip-story/SKILL.md](ip-story/SKILL.md) | ④ IP故事引擎 |
-| [growth-engine/SKILL.md](growth-engine/SKILL.md) | ⑤ 涨粉增长引擎 |
-| [monetization/SKILL.md](monetization/SKILL.md) | ⑥ 商业化罗盘 |
-| [director-training/SKILL.md](director-training/SKILL.md) | ⑦ 编导能力训练 |
-| [pitfall-guide/SKILL.md](pitfall-guide/SKILL.md) | ⑧ 避坑指南 |
+## 新版窄模块
 
----
+- [topic-title-lab](topic-title-lab/SKILL.md)：已有方向之后，只做对外标题
+- [depth-lab](depth-lab/SKILL.md)：知识稿的机制、证据、影响与深度成稿
+- [opening-selector](opening-selector/SKILL.md)：从材料中选择一个合适的开头
+- [expectation-contrast](expectation-contrast/SKILL.md)：材料支持时增强真实反差
+- [conflict-stakes](conflict-stakes/SKILL.md)：补足故事目标、阻力、利害和选择
+- [motivation-delivery](motivation-delivery/SKILL.md)：检查前端承诺能否被后端交付接住
 
-## 🔢 方法论编号索引
+## 马师傅备选模块
 
-### 框架 (f) — 31 条通过验证
+- [pain-point-converter](ma-shifu/skills/pain-point-converter/SKILL.md)：产品痛点与销售表达
+- [itch-marketing-engine](ma-shifu/skills/itch-marketing-engine/SKILL.md)：痒点、预拥有感和身份表达
 
-| ID | 标题 | 所属集群 |
-|----|------|---------|
-| f01 | 共同情感记忆-共情论（爆款元逻辑） | ③ 爆款内容工厂 |
-| f02 | 共情范围-流量量级对应框架 | ① 选题引擎 |
-| f03 | 万古同悲验证法 | ① 选题引擎 |
-| f04 | 共同情感记忆层级排序 | ① 选题引擎 / ③ 爆款内容工厂 |
-| f05 | 爆款三类型分类框架 | ③ 爆款内容工厂 |
-| f06 | 百万爆款四必要条件检查表 | ③ 爆款内容工厂 |
-| f07 | "他媒体"论（用户视角反转） | ② 起号引擎 |
-| f08 | 用户需求三分类法 | ① 选题引擎 |
-| f12 | 硬素材/软素材区分框架 | ① 选题引擎 |
-| f15 | 选题天花板预判法 | ① 选题引擎 |
-| f17 | 起号四步定位法 | ② 起号引擎 |
-| f18 | IP十问（自我剖析工具） | ② 起号引擎 / ④ IP故事引擎 |
-| f19 | "只要你要只要我有"供需匹配法则 | ④ IP故事引擎 |
-| f20 | 六选题方向 | ④ IP故事引擎 |
-| f21 | 六段式IP故事大纲 | ④ IP故事引擎 |
-| f24 | IP型博主 vs 内容型博主二分框架 | ② 起号引擎 |
-| f25 | 平台风向适配法 | ② 起号引擎 |
-| f27 | 爆款三类型的呈现形式对应 | ③ 爆款内容工厂 |
-| f31 | 评论区互动驱动增长框架 | ⑤ 涨粉增长引擎 |
-| f33 | 内容诊断框架（资深编导诊断法） | ③ 爆款内容工厂 / ⑦ 编导能力训练 |
-| f34 | 长视频合集化框架 | ⑧ 避坑指南 |
-| f36 | 离爆款最近的事 | ⑧ 避坑指南 |
-| f37 | 离涨粉最近的事 | ⑤ 涨粉增长引擎 |
-| f38 | 涨粉三类型 | ⑤ 涨粉增长引擎 |
-| f40 | 作品使命五分类 | ⑧ 避坑指南 |
-| f43-f45 | 商业化相关框架 | ⑥ 商业化罗盘 |
+## 读取边界
 
-### 原则 (p) — 73 条通过验证（按集群分布）
-
-| 集群 | 关键原则编号 |
-|------|------------|
-| ① 选题引擎 | p06, p24, p26, p37, p55, p91, p125, p126, p143 |
-| ② 起号引擎 | p07, p08, p10, p11, p61, p62, p130, p147, p151 |
-| ③ 爆款内容工厂 | p21, p45, p48, p55, p75, p90, p137, p141, p144 |
-| ④ IP故事引擎 | p06, p26, p37, p38, p39, p40, p41, p42, p43, p44 |
-| ⑤ 涨粉增长引擎 | p32, p33, p34, p57, p61, p62, p63, p67, p68, p69, p70, p73, p74, p75, p85 |
-| ⑥ 商业化罗盘 | p13, p22, p45, p64, p65, p66, p67, p68, p104, p105, p145, p146, p154 |
-| ⑦ 编导能力训练 | p48, p53, p54, p58, p91, p93, p95, p99, p100, p102, p117, p138, p139, p140, p141 |
-| ⑧ 避坑指南 | p11, p12, p45, p56, p57, p113, p130, p137 |
-
-### 案例 (c) — 62 条全部通过
-
-所有案例分布在 8 个集群中，以各集群末尾引用清单为准。
-
-### 反例 (ce) — 35 条全部通过
-
-主要集中在 ⑧ 避坑指南，部分分布在各集群作为反面教材。
-
-### 术语 (g) — 28 条全部通过
-
-分布在各个集群的 I 段（自述）和 E 段（执行步骤）中。
-
----
-
-## 🏷️ 触发词速查表
-
-| 用户意图关键词 | 直达集群 |
-|--------------|---------|
-| 选题/不知道拍什么/选题枯竭/能火吗/热点 | ① 选题引擎 |
-| 起号/开始/定位/赛道/素人/从零/账号做什么 | ② 起号引擎 |
-| 改/优化/脚本/开头/标题/数据差/内容差/差点意思 | ③ 爆款内容工厂 |
-| 个人IP/创始人IP/品牌故事/记住我/故事怎么讲 | ④ IP故事引擎 |
-| 涨粉/不涨粉/卡住/瓶颈/播放量/复盘/数据 | ⑤ 涨粉增长引擎 |
-| 变现/广告/赚钱/报价/商业/知识付费/电商 | ⑥ 商业化罗盘 |
-| 提升/学习/编导/能力/培养/系统学习/怎么学 | ⑦ 编导能力训练 |
-| 坑/误区/为什么做不起来/避坑/陷阱 | ⑧ 避坑指南 |
-
----
-
-## 📊 构建统计
-
-| 阶段 | 状态 | 结果 |
-|------|------|------|
-| Stage 0: 通读 | ✅ 完成 | 18 视频 → BOOK_OVERVIEW.md |
-| Stage 1: 提取 | ✅ 完成 | 5 agent 并行 → 347 条候选 |
-| Stage 1.5: 验证 | ✅ 完成 | 229 PASS / 32 UNCERTAIN / 94 REJECTED |
-| Stage 2: RIA++ | ✅ 完成 | 8 集群 × 5 Step × 6 段（R/I/A1/A2/E/B） |
-| Stage 3: 链接 | ✅ 完成 | 28术语 + 56交叉引用 + 0死链 |
-| Stage 4: 测试 | ✅ 完成 | 30用例/80%首通/修正后100% |
-| Stage 5: 马师傅蒸馏 | ✅ 完成 | 64条提取 + 2集群 + 20/20压力测试 |
-| Stage 6: 马师傅注入 | ✅ 完成 | ②③④⑥四个集群注入 + 总路由备选分发 |
-| Stage 7: 交付 | ✅ 完成 | 全局安装 `~/.claude/skills/zuiqiang-shifu/`，命名「最强师傅」|
-
----
-
-> 最后更新：2026-08-03 | 方法：cangjie-skill (RIA++B) 七阶段蒸馏 | 作者：最强编导 + 马师傅（营销心理学）| 10 集群 · 全局安装版
+- 不要一次把所有模块串成流水线。
+- 每个模块自己的步骤都必须按顺序完成；用户已有输入算该步已完成，只有用户明确要求才可跳过。
+- 深度口播由 `depth-lab` 负责深度；只有用户选择融合爆款风格时，才内置 `viral-factory` 的表达层，这不算第二个主模块。
+- 任何模块提到的平台比例、分发周期、算法或产品规则，都要先看当前官方信息；无法核实时按假设表达。
+- 内部术语不直接倾倒给普通用户，最终输出应是选题、标题、口播、判断或行动建议。
