@@ -1,0 +1,40 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "MODULE.md": "4e148a8390feb403bd8800e331303f614b435d985d51e9044bbd221745143dcd",
+    "references/capabilities/audience-situation.md": "a0d2d29c86a3331a98c5f18f2c63acfd6b451936d700761d8f661c2005827af9",
+    "references/capabilities/concrete-not-abstract.md": "219a20963d9fb9e0aae771b731c6bbd501a8844562c30cdea736644342898515",
+    "references/capabilities/dialogue-timing.md": "bf06c62928739e3e3c812e66200ac9187d7ae4c3a39bc300b1150a7400f9051f",
+    "references/capabilities/emotion-locate.md": "31c4438b18ce420ba87252909590e11d06c1fdc006deac4d936d96276aaa583e",
+    "references/capabilities/familiar-twist.md": "d4ca3e5b2865bf0247e7e0921f477b5c9b58325690718a15ce42c860c9dfd473",
+    "references/capabilities/ladder-evidence.md": "a56a7ae49f8b62d39ade54849a914db86a8a9824252078433cf83feefd880c85",
+    "references/capabilities/opening-trial.md": "800e29ef2738a5e9f30565845176acd95c0d3fac425727cace95d4d3dfcaa9d2",
+    "references/capabilities/plain-voice.md": "7214466a9aff1bf5ca5c1ad4fb48486dbf0d872b739ded0a5e8367b5e2427070",
+    "references/capabilities/say-it-differently.md": "d9f3866af04ef9fd3cf8000ffcc191201d825f514d2e85eb9440da6b6bb4e0c9",
+    "references/capabilities/so-what-chain.md": "20c0fb3b9268ebe6ea9250621f84fa9cd7d8924a1b96db72195175b4ec0840a1",
+    "references/capability-index.md": "149399eea328ab60e3c870368e3a3b48f1727bfc1f6b610648627da39fc483bf",
+    "references/cheatsheet.md": "dab7aced20fa1d37f19193d8614665a9335c1bfd93601ad55aef1e4bb7333080",
+    "references/glossary.md": "786570e5dbc0daff59eedf0eeb0bebacd26f3d7dffed7a099cb89369e29efc8f",
+    "references/overview.md": "23244118050e97c649af95e109761e421bf865376c62cfbc8102455c93428c41"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.mashifu-copy-craft",
+  "bundle_sha256": "b13b747356955f5df6441077cf4471fec9c6ebdcb0de27ff3219c9ff1e9583ab",
+  "variant": "single",
+  "run_id": "run-20261021-041022-87920d",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 10,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
